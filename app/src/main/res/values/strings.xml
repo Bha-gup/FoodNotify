@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fooddy</string>
+    <string name="next">Next</string>
+    <string name="enjoy">Enjoy Restaurant Quality Meals\nAt Home</string>
+    <string name="design">Design By\nTiny Coders</string>
+    <string name="deliver">Deliver Food Mania</string>
+    <string name="foodnotify">FoodNotify</string>
+    <string name="loginaccount">Login To The Account</string>
+    <string name="email">Email</string>
+    <string name="google">GOOGLE</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="nothaveaccount">Don\'t Have Account?</string>
+    <string name="locationDetails">To provide you with the best dining experience, we need your permission to access your device\'s location by enabling location services, we can offer personalized restaurant recommendations, accurate delivery estimates, and ensure a seam less food delivery experience.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart">Cart</string>
+</resources>

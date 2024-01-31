@@ -1,0 +1,72 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/FoodNotify/app/src/main/res/layout/activity_main.xml" value="0.2703804347826087" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/addtocartshape.xml" value="0.226" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/arrow_down.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/arrow_left.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/bell.xml" value="0.2565" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/burrgar.xml" value="0.279" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/congrats.xml" value="0.273" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/congratulation.xml" value="0.273" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/edittextshape.xml" value="0.279" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/eye.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/eye_hide.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/facebook.xml" value="0.226" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/gohomeshape.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/google.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/greenbutton.xml" value="0.278" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/greenbuttongradient.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/history.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/home.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/lock.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/logo.xml" value="0.226" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/mail.xml" value="0.279" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/minus.xml" value="0.279" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/proceedbutonshape.xml" value="0.279" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/profileedittextshape.xml" value="0.161" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/sademoji.xml" value="0.226" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/search.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/serachshape.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/textviewshape.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/trash.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/truck.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/user.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/user_plus.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/drawable/whitebutton.xml" value="0.2085" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/activity_details.xml" value="0.152" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/activity_navigation_location.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/activity_pay_out_acitivity.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/activity_sign.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/activity_splash_screen.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/activity_start.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/buy_again_item.xml" value="0.2734375" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/cartview.xml" value="0.264" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/fragment_cart.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/fragment_congrats_bottom_sheet.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/fragment_history.xml" value="0.264" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/fragment_menu_bottom_sheet.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/fragment_notification_bottom.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/menuitem.xml" value="0.4" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/notification_item.xml" value="0.536" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/layout/populartems.xml" value="0.2" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/menu/menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Gupta Family/AndroidStudioProjects/Fooddy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
